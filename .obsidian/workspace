@@ -7,8 +7,12 @@
         "id": "5c352ba1c116ce45",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -54,6 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -69,6 +74,8 @@
   },
   "active": "5c352ba1c116ce45",
   "lastOpenFiles": [
+    "README.md",
+    "shielding effect.md",
     "valence electron.md",
     "period.md",
     "percent yield.md",
@@ -76,8 +83,6 @@
     "percent composition.md",
     "neutron.md",
     "atomic mass.md",
-    "proton.md",
-    "nomenclature.md",
-    "_TO_ADD.md"
+    "proton.md"
   ]
 }
