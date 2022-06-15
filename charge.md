@@ -1,0 +1,1 @@
+Ex: $H^+1$: the charge is +1, meaning it can share 1 [[electron]] with another [[element]]

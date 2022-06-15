@@ -1,0 +1,83 @@
+{
+  "main": {
+    "id": "8721c49fe583ef75",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c352ba1c116ce45",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edd7a22c34ade4ff",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "29a4356f2f89167f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "73d838243c1cbcaf",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6f457d0a3bf51ca7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1cb2e286d4bb640d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "5c352ba1c116ce45",
+  "lastOpenFiles": [
+    "valence electron.md",
+    "period.md",
+    "percent yield.md",
+    "mass.md",
+    "percent composition.md",
+    "neutron.md",
+    "atomic mass.md",
+    "proton.md",
+    "nomenclature.md",
+    "_TO_ADD.md"
+  ]
+}
